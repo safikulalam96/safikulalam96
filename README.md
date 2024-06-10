@@ -16,7 +16,7 @@ Hi there! I'm a passionate frontend developer with a knack for creating dynamic 
 
 ## 🌟 Projects
 
-[Awesome Web App](https://github.com/yourusername/awesome-web-app)
+[Awesome Web App](https://github.com/safikulala96/spotify_clone)
 A modern and responsive web application built with React, Bootstrap, and Tailwind CSS. This project demonstrates my ability to create dynamic and user-friendly interfaces.
 
 ## 📫 Contact Me
