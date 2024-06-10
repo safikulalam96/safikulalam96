@@ -33,7 +33,7 @@ Feel free to reach out if you have any questions or if you’d like to collabora
 
 ## 🏆 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?safikulalam96=safikulalam96&layout=compact&theme=radical)
 
 ## 👨‍💻 What I'm Currently Working On
 
