@@ -11,24 +11,19 @@ Hi there! I'm a passionate frontend developer with a knack for creating dynamic 
 - **React**: Building reusable components and managing application state efficiently.
 - **Bootstrap**: Quick and easy responsive design with this powerful CSS framework.
 - **Tailwind CSS**: Utility-first CSS framework for rapid UI development.
-
-### Backend Development
 - **Java**: Object-oriented programming language for building robust backend systems.
 - **OOP (Object-Oriented Programming)**: Designing software with reusable and modular code.
 
 ## 🌟 Projects
 
-### Project 1: [Awesome Web App](https://github.com/yourusername/awesome-web-app)
+[Awesome Web App](https://github.com/yourusername/awesome-web-app)
 A modern and responsive web application built with React, Bootstrap, and Tailwind CSS. This project demonstrates my ability to create dynamic and user-friendly interfaces.
-
-### Project 2: [Java Backend System](https://github.com/yourusername/java-backend-system)
-A backend system built with Java, showcasing my skills in OOP and backend development.
 
 ## 📫 Contact Me
 
 Feel free to reach out if you have any questions or if you’d like to collaborate on a project!
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Email: [your.email@example.com](mailto:safikulalam9679@gmail.com)
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
 - Twitter: [@YourTwitterHandle](https://twitter.com/yourhandle)
 
@@ -48,12 +43,12 @@ Feel free to reach out if you have any questions or if you’d like to collabora
 
 ## 🌱 What I'm Learning Next
 
-- Diving deeper into advanced React patterns and state management.
-- Learning TypeScript for better JavaScript development.
+- Diving to the backend .
+- Learning TypeScript for better JavaScript development and node.js mongodb.
 - Exploring new tools and frameworks to stay updated with industry trends.
 
 Thank you for visiting my GitHub profile! Feel free to check out my repositories and get in touch!
 
 ---
 
-*This README was generated with ❤️ by [Your Name](https://github.com/yourusername)*
+*This README was generated with ❤️ by Safikul Alam(https://github.com/safikulalam96)*
