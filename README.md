@@ -23,7 +23,7 @@ A modern and responsive web application built with React, Bootstrap, and Tailwin
 
 Feel free to reach out if you have any questions or if you’d like to collaborate on a project!
 
-- Email: [your.email@example.com](mailto:safikulalam9679@gmail.com)
+- Email: saifkulalam9679@gmail.com(mailto:safikulalam9679@gmail.com)
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
 - Twitter: [@YourTwitterHandle](https://twitter.com/yourhandle)
 
