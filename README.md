@@ -1,54 +1,24 @@
-# Welcome to My GitHub Profile!
+# 💫 About Me:
+🔭 I’m currently working on Frontend Skills<br>🌱 I’m currently learning React and 3d website designing<br>💬 Ask me about Frontend skills
 
-Hi there! I'm a passionate frontend developer with a knack for creating dynamic and responsive web applications. Here's a bit about me and my skills:
 
-## 🔧 Technologies & Tools
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsme_safikul) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Safikul_alam3) 
 
-### Frontend Development
-- **HTML**: The backbone of all web development, crafting well-structured and semantic web pages.
-- **CSS**: Bringing designs to life with style, including animations and responsive layouts.
-- **JavaScript**: Making web pages interactive and engaging.
-- **React**: Building reusable components and managing application state efficiently.
-- **Bootstrap**: Quick and easy responsive design with this powerful CSS framework.
-- **Tailwind CSS**: Utility-first CSS framework for rapid UI development.
-- **Java**: Object-oriented programming language for building robust backend systems.
-- **OOP (Object-Oriented Programming)**: Designing software with reusable and modular code.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=safikulalam96&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=safikulalam96&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=safikulalam96&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🌟 Projects
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[Awesome Web App](https://github.com/safikulala96/spotify_clone)
-A modern and responsive web application built with React, Bootstrap, and Tailwind CSS. This project demonstrates my ability to create dynamic and user-friendly interfaces.
-
-## 📫 Contact Me
-
-Feel free to reach out if you have any questions or if you’d like to collaborate on a project!
-
-- Email: saifkulalam9679@gmail.com(mailto:safikulalam9679@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Twitter: [@YourTwitterHandle](https://twitter.com/yourhandle)
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=safikulalam96&show_icons=true&theme=radical)
-
-## 🏆 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safikulalam96&layout=compact&theme=radical)
-
-## 👨‍💻 What I'm Currently Working On
-
-- Improving my skills in advanced JavaScript and React.
-- Exploring the latest trends in CSS frameworks and design patterns.
-- Building full-stack applications with Java backend and modern frontend technologies.
-
-## 🌱 What I'm Learning Next
-
-- Diving to the backend .
-- Learning TypeScript for better JavaScript development and node.js mongodb.
-- Exploring new tools and frameworks to stay updated with industry trends.
-
-Thank you for visiting my GitHub profile! Feel free to check out my repositories and get in touch!
+### 😂 Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
+[![](https://visitcount.itsvg.in/api?id=safikulalam96&icon=0&color=0)](https://visitcount.itsvg.in)
 
-*This README was generated with ❤️ by Safikul Alam(https://github.com/safikulalam96)*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
