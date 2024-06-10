@@ -29,7 +29,7 @@ Feel free to reach out if you have any questions or if you’d like to collabora
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=safikulalam96&show_icons=true&theme=radical)
 
 ## 🏆 Top Languages
 
